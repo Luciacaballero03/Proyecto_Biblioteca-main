@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 2eee56f4bddcc5643adf6a04fc2ce64c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube.001
+    100004: Cube.002
+    100006: Cube.003
+    100008: Cube.004
+    100010: Cube.005
+    100012: Cube.006
+    100014: Cube.007
+    100016: Cube.008
+    100018: libreria.002
+    100020: MarcoPuerta
+    100022: //RootNode
+    100024: ParedesSimples
+    100026: ParedRelieves
+    100028: PisoTotal
+    100030: Puerta
+    100032: Techo
+    400000: Cube
+    400002: Cube.001
+    400004: Cube.002
+    400006: Cube.003
+    400008: Cube.004
+    400010: Cube.005
+    400012: Cube.006
+    400014: Cube.007
+    400016: Cube.008
+    400018: libreria.002
+    400020: MarcoPuerta
+    400022: //RootNode
+    400024: ParedesSimples
+    400026: ParedRelieves
+    400028: PisoTotal
+    400030: Puerta
+    400032: Techo
+    2100000: gris.001
+    2100002: ventana.001
+    2100004: pared.001
+    2100006: granitoPiso.001
+    2100008: ventana.002
+    2100010: granitoPiso.002
+    2100012: ladrillo.002
+    2100014: metal dorado.002
+    2100016: Material.002
+    2100018: TECHO
+    2100020: pared
+    2100022: granitoPiso
+    2100024: ventana
+    2100026: LADRILLO
+    2100028: metal dorado
+    2100030: gris
+    2100032: Pata_Mesa
+    2100034: MADERA_MESApro
+    2100036: libro_verde.001
+    2100038: Material.008
+    2100040: klibro_beige
+    2100042: libro_rojo
+    2100044: libro_verde.002
+    2100046: Material.011
+    2100048: Material.009
+    2100050: Material.010
+    2100052: libro_verde.003
+    2100054: Material.014
+    2100056: Material.012
+    2100058: Material.013
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Cube.003
+    2300008: Cube.004
+    2300010: Cube.005
+    2300012: Cube.006
+    2300014: Cube.007
+    2300016: Cube.008
+    2300018: libreria.002
+    2300020: MarcoPuerta
+    2300022: ParedesSimples
+    2300024: ParedRelieves
+    2300026: PisoTotal
+    2300028: Puerta
+    2300030: Techo
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Cube.003
+    3300008: Cube.004
+    3300010: Cube.005
+    3300012: Cube.006
+    3300014: Cube.007
+    3300016: Cube.008
+    3300018: libreria.002
+    3300020: MarcoPuerta
+    3300022: ParedesSimples
+    3300024: ParedRelieves
+    3300026: PisoTotal
+    3300028: Puerta
+    3300030: Techo
+    4300000: MarcoPuerta
+    4300002: ParedRelieves
+    4300004: ParedesSimples
+    4300006: PisoTotal
+    4300008: Puerta
+    4300010: Techo
+    4300012: Cube
+    4300014: Cube.001
+    4300016: Cube.003
+    4300018: Cube.004
+    4300020: Cube.005
+    4300022: Cube.006
+    4300024: Cube.007
+    4300026: Cube.008
+    4300028: Cube.002
+    4300030: libreria.002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LADRILLO
+    second: {fileID: 2100000, guid: d22da042796133e4daf090076e8e123e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MADERA_MESApro
+    second: {fileID: 2100000, guid: 224a215a3b2e1b84db2c2dc3a873ed9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 9379382b0cbc1e84ea05094e5a085d8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: a37d1fc451dac964f9c38e4c0774f8fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: f6dd399653ae7c143b5262c27b48c0fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: c99c8d2b2d46c7c448aa22c667ea7a4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 5384570b36bda9244be859e5a5dc3833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: 8752aefe108966445a04cbf18299f5d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: 95c8dc37c2f52284b8b439190a3ed5d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: 5112cc0e24e2af14fa8f065e6182fcad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pata_Mesa
+    second: {fileID: 2100000, guid: 341945fb15c32d94b9404ab60f896a0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TECHO
+    second: {fileID: 2100000, guid: bb2941baad0e557479fb1c915c6ae43c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: granitoPiso
+    second: {fileID: 2100000, guid: 4983fef4375aa654ebe89b8fced13aab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: granitoPiso.001
+    second: {fileID: 2100000, guid: 6c1c4df8dc910664cb26a4a0bf2af3bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: granitoPiso.002
+    second: {fileID: 2100000, guid: 910b8c7077cfee441a9d177ae74c30b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gris
+    second: {fileID: 2100000, guid: 5cb58667caec1434fb3dfb813e4634ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gris.001
+    second: {fileID: 2100000, guid: 3c4a47f6fe8573e42a35615ee2f59784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: klibro_beige
+    second: {fileID: 2100000, guid: 4f56ef3599409e04cb461af4ce555329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ladrillo.002
+    second: {fileID: 2100000, guid: e4b8ed423d96f6d48b2ae3b68d61807c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo
+    second: {fileID: 2100000, guid: a82600c71dcf043499d094998fb76e6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.001
+    second: {fileID: 2100000, guid: d0d3286aa96111541bfe8af4533eeb2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.002
+    second: {fileID: 2100000, guid: 1c34bc722e9ac4d4f976a4e181063c7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.003
+    second: {fileID: 2100000, guid: 31cc1d95dcd28e447b7af08c2c30829e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal dorado
+    second: {fileID: 2100000, guid: 48dc17d6c43ec724d9127ebf69303627, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal dorado.002
+    second: {fileID: 2100000, guid: 5c471c6f61c3d474aae0241c50344c7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pared
+    second: {fileID: 2100000, guid: 6557925c0fd357c4aa26a89df4b47c6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pared.001
+    second: {fileID: 2100000, guid: 8fb25eda9b10bc54590c3307dfac8e22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ventana
+    second: {fileID: 2100000, guid: dedb0e66d46ebb6419f686986d1457e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ventana.001
+    second: {fileID: 2100000, guid: ab35b54ae0bf39549896ef48602792fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ventana.002
+    second: {fileID: 2100000, guid: 9e02a1b10d7f52142a8749ca1d2a3418, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: madera_mesaPRO
+    second: {fileID: 2800000, guid: 216dbe9cf930be54ebf8374053e60362, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal_dorado
+    second: {fileID: 2800000, guid: 03b07a6a5684d3d499596c77c71b5707, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ventanaa
+    second: {fileID: 2800000, guid: 31c7bdc110e13b2489b399c1e251257a, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
