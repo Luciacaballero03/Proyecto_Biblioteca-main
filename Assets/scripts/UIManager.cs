@@ -9,6 +9,8 @@ public class UIManager : MonoBehaviour
      public TextMeshProUGUI txt_Temporizador;
      public GameObject panelWin;
      public GameObject panelGameOver;
+     public GameObject panelTemporizador;
+     public GameObject panelScore;
 
     // Start is called before the first frame update
     void Start()
@@ -30,9 +32,17 @@ public class UIManager : MonoBehaviour
 
     public void MostrarPantallaWin(){
         panelWin.SetActive(true);
+        txt_Temporizador.gameObject.SetActive(false);
+        txt_Score.gameObject.SetActive(false);
+        panelTemporizador.SetActive(false);
+        panelScore.SetActive(false);
     }
 
     public void MostrarPantallaGameOver(){
         panelGameOver.SetActive(true);
+        txt_Temporizador.gameObject.SetActive(false);
+        txt_Score.gameObject.SetActive(false);
+        panelTemporizador.SetActive(false);
+        panelScore.SetActive(false);
     }
 }
