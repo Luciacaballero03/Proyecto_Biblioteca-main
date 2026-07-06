@@ -18,6 +18,18 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        if (uiManag.panelInicio.activeSelf){
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
+                uiManag.panelInicio.SetActive(false);
+                uiManag.txt_Temporizador.gameObject.SetActive(true);
+                uiManag.txt_Score.gameObject.SetActive(true);
+                uiManag.panelTemporizador.SetActive(true);
+                uiManag.panelScore.SetActive(true);
+            }
+            return;
+        }
             timer -= Time.deltaTime;
             uiManag.UpdateTimer(timer);
 

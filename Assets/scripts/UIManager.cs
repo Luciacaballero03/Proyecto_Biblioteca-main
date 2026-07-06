@@ -11,11 +11,18 @@ public class UIManager : MonoBehaviour
      public GameObject panelGameOver;
      public GameObject panelTemporizador;
      public GameObject panelScore;
+     public GameObject panelInicio;
 
     // Start is called before the first frame update
     void Start()
     {
         UpdateTimer(0);
+        txt_Temporizador.gameObject.SetActive(false);
+        txt_Score.gameObject.SetActive(false);
+        panelTemporizador.SetActive(false);
+        panelScore.SetActive(false);
+        panelWin.SetActive(false);
+        panelGameOver.SetActive(false);
     }
 
     public void UpdateScore (int score) {
