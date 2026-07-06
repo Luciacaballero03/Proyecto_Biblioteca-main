@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Time.timeScale = 1;
+        Time.timeScale = 0;
         uiManag = Object.FindObjectOfType<UIManager>();
     }
 
@@ -22,6 +22,7 @@ public class GameManager : MonoBehaviour
         if (uiManag.panelInicio.activeSelf){
             if (Input.GetKeyDown(KeyCode.Space))
             {
+                Time.timeScale = 1;
                 uiManag.panelInicio.SetActive(false);
                 uiManag.txt_Temporizador.gameObject.SetActive(true);
                 uiManag.txt_Score.gameObject.SetActive(true);
