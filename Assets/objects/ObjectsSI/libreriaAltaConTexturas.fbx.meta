@@ -1,0 +1,2181 @@
+fileFormatVersion: 2
+guid: 3d921128835efa44c8d4121328ad6f51
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: libro.016
+    100004: libro.017
+    100006: libro.018
+    100008: libro.019
+    100010: libro.020
+    100012: libro.021
+    100014: libro.022
+    100016: libro.023
+    100018: libro.024
+    100020: libro.025
+    100022: libro.027
+    100024: libro.028
+    100026: libro.029
+    100028: libro.030
+    100030: libro.031
+    100032: libro.032
+    100034: libro.033
+    100036: libro.034
+    100038: libro.035
+    100040: libro.036
+    100042: libro.037
+    100044: libro.038
+    100046: libro.039
+    100048: libro.040
+    100050: libro.041
+    100052: libro.042
+    100054: libro.043
+    100056: libro.044
+    100058: libro.045
+    100060: libro.046
+    100062: libro.047
+    100064: libro.048
+    100066: libro.049
+    100068: libro.050
+    100070: libro.051
+    100072: libro.052
+    100074: libro.053
+    100076: libro.054
+    100078: libro.055
+    100080: libro.056
+    100082: libro.057
+    100084: libro.058
+    100086: libro.059
+    100088: libro.060
+    100090: libro.061
+    100092: libro.062
+    100094: libro.063
+    100096: libro.064
+    100098: libro.065
+    100100: libro.066
+    100102: libro.067
+    100104: libro.068
+    100106: libro.069
+    100108: libro.070
+    100110: libro.071
+    100112: libro.072
+    100114: libro.073
+    100116: libro.074
+    100118: libro.075
+    100120: libro.076
+    100122: libro.077
+    100124: libro.078
+    100126: libro.079
+    100128: libro.080
+    100130: libro.081
+    100132: libro.082
+    100134: libro.083
+    100136: libro.084
+    100138: libro.085
+    100140: libro.086
+    100142: libro.087
+    100144: libro.088
+    100146: libro.089
+    100148: libro.090
+    100150: libro.091
+    100152: libro.092
+    100154: libro.093
+    100156: libro.094
+    100158: libro.095
+    100160: libro.096
+    100162: libro.097
+    100164: libro.098
+    100166: libro.099
+    100168: libro.100
+    100170: libro.101
+    100172: libro.102
+    100174: libro.103
+    100176: libro.104
+    100178: libro.105
+    100180: libro.106
+    100182: libro.107
+    100184: libro.108
+    100186: libro.109
+    100188: libro.110
+    100190: libro.111
+    100192: libro.112
+    100194: libro.113
+    100196: libro.114
+    100198: libro.115
+    100200: libro.116
+    100202: libro.117
+    100204: libro.118
+    100206: libro.119
+    100208: libro.120
+    100210: libro.121
+    100212: libro.122
+    100214: libro.123
+    100216: libro.124
+    100218: libro.125
+    100220: libro.126
+    100222: libro.127
+    100224: libro.208
+    100226: libro.213
+    100228: libro.214
+    100230: libro.215
+    100232: libro.216
+    100234: libro.217
+    100236: libro.218
+    100238: libro.219
+    100240: libro.220
+    100242: libro.221
+    100244: libro.222
+    100246: LibroRojoOK
+    400000: //RootNode
+    400002: libro.016
+    400004: libro.017
+    400006: libro.018
+    400008: libro.019
+    400010: libro.020
+    400012: libro.021
+    400014: libro.022
+    400016: libro.023
+    400018: libro.024
+    400020: libro.025
+    400022: libro.027
+    400024: libro.028
+    400026: libro.029
+    400028: libro.030
+    400030: libro.031
+    400032: libro.032
+    400034: libro.033
+    400036: libro.034
+    400038: libro.035
+    400040: libro.036
+    400042: libro.037
+    400044: libro.038
+    400046: libro.039
+    400048: libro.040
+    400050: libro.041
+    400052: libro.042
+    400054: libro.043
+    400056: libro.044
+    400058: libro.045
+    400060: libro.046
+    400062: libro.047
+    400064: libro.048
+    400066: libro.049
+    400068: libro.050
+    400070: libro.051
+    400072: libro.052
+    400074: libro.053
+    400076: libro.054
+    400078: libro.055
+    400080: libro.056
+    400082: libro.057
+    400084: libro.058
+    400086: libro.059
+    400088: libro.060
+    400090: libro.061
+    400092: libro.062
+    400094: libro.063
+    400096: libro.064
+    400098: libro.065
+    400100: libro.066
+    400102: libro.067
+    400104: libro.068
+    400106: libro.069
+    400108: libro.070
+    400110: libro.071
+    400112: libro.072
+    400114: libro.073
+    400116: libro.074
+    400118: libro.075
+    400120: libro.076
+    400122: libro.077
+    400124: libro.078
+    400126: libro.079
+    400128: libro.080
+    400130: libro.081
+    400132: libro.082
+    400134: libro.083
+    400136: libro.084
+    400138: libro.085
+    400140: libro.086
+    400142: libro.087
+    400144: libro.088
+    400146: libro.089
+    400148: libro.090
+    400150: libro.091
+    400152: libro.092
+    400154: libro.093
+    400156: libro.094
+    400158: libro.095
+    400160: libro.096
+    400162: libro.097
+    400164: libro.098
+    400166: libro.099
+    400168: libro.100
+    400170: libro.101
+    400172: libro.102
+    400174: libro.103
+    400176: libro.104
+    400178: libro.105
+    400180: libro.106
+    400182: libro.107
+    400184: libro.108
+    400186: libro.109
+    400188: libro.110
+    400190: libro.111
+    400192: libro.112
+    400194: libro.113
+    400196: libro.114
+    400198: libro.115
+    400200: libro.116
+    400202: libro.117
+    400204: libro.118
+    400206: libro.119
+    400208: libro.120
+    400210: libro.121
+    400212: libro.122
+    400214: libro.123
+    400216: libro.124
+    400218: libro.125
+    400220: libro.126
+    400222: libro.127
+    400224: libro.208
+    400226: libro.213
+    400228: libro.214
+    400230: libro.215
+    400232: libro.216
+    400234: libro.217
+    400236: libro.218
+    400238: libro.219
+    400240: libro.220
+    400242: libro.221
+    400244: libro.222
+    400246: LibroRojoOK
+    2100000: Material.002
+    2100002: Material.012
+    2100004: libro_rojo.002
+    2100006: Material.003
+    2100008: libro_verde
+    2100010: Material.004
+    2100012: libro_beige
+    2100014: Material.005
+    2100016: Material.006
+    2100018: libro_rojo.003
+    2100020: Material.007
+    2100022: libro_rojo.004
+    2100024: Material.015
+    2100026: libro_beige.003
+    2100028: Material.016
+    2100030: libro_beige.004
+    2100032: Material.017
+    2100034: libro_verde.001
+    2100036: Material.018
+    2100038: libro_rojo.005
+    2100040: Material.019
+    2100042: libro_rojo.008
+    2100044: Material.024
+    2100046: libro_beige.007
+    2100048: Material.025
+    2100050: libro_beige.008
+    2100052: Material.026
+    2100054: libro_rojo.009
+    2100056: Material.027
+    2100058: libro_verde.007
+    2100060: Material.029
+    2100062: libro_beige.009
+    2100064: Material.030
+    2100066: libro_beige.010
+    2100068: Material.031
+    2100070: libro_rojo.010
+    2100072: Material.032
+    2100074: libro_rojo.011
+    2100076: Material.033
+    2100078: libro_verde.008
+    2100080: Material.034
+    2100082: libro_beige.011
+    2100084: Material.035
+    2100086: libro_beige.012
+    2100088: Material.036
+    2100090: libro_rojo.012
+    2100092: Material.037
+    2100094: libro_rojo.013
+    2100096: Material.038
+    2100098: libro_verde.009
+    2100100: Material.039
+    2100102: libro_beige.013
+    2100104: Material.040
+    2100106: libro_rojo.014
+    2100108: Material.041
+    2100110: libro_rojo.015
+    2100112: Material.042
+    2100114: libro_verde.010
+    2100116: Material.043
+    2100118: libro_beige.014
+    2100120: Material.044
+    2100122: libro_rojo.016
+    2100124: Material.045
+    2100126: libro_verde.011
+    2100128: Material.046
+    2100130: libro_beige.015
+    2100132: Material.047
+    2100134: libro_verde.012
+    2100136: Material.048
+    2100138: libro_beige.016
+    2100140: Material.049
+    2100142: libro_rojo.017
+    2100144: Material.050
+    2100146: libro_beige.017
+    2100148: Material.051
+    2100150: libro_beige.018
+    2100152: Material.052
+    2100154: libro_rojo.018
+    2100156: Material.053
+    2100158: libro_beige.019
+    2100160: Material.054
+    2100162: libro_verde.013
+    2100164: Material.055
+    2100166: libro_rojo.019
+    2100168: Material.056
+    2100170: libro_beige.020
+    2100172: Material.057
+    2100174: libro_beige.021
+    2100176: Material.058
+    2100178: libro_rojo.020
+    2100180: Material.059
+    2100182: libro_rojo.021
+    2100184: Material.060
+    2100186: libro_verde.014
+    2100188: Material.061
+    2100190: libro_beige.022
+    2100192: Material.062
+    2100194: libro_beige.023
+    2100196: Material.063
+    2100198: libro_rojo.022
+    2100200: Material.064
+    2100202: libro_rojo.023
+    2100204: Material.065
+    2100206: libro_verde.015
+    2100208: Material.066
+    2100210: libro_beige.024
+    2100212: Material.067
+    2100214: Material.068
+    2100216: libro_rojo.024
+    2100218: Material.069
+    2100220: libro_rojo.025
+    2100222: Material.070
+    2100224: libro_verde.016
+    2100226: Material.071
+    2100228: libro_beige.025
+    2100230: Material.072
+    2100232: Material.073
+    2100234: libro_rojo.026
+    2100236: Material.074
+    2100238: libro_rojo.027
+    2100240: Material.075
+    2100242: libro_beige.026
+    2100244: Material.076
+    2100246: libro_beige.027
+    2100248: Material.077
+    2100250: libro_verde.017
+    2100252: Material.078
+    2100254: libro_rojo.028
+    2100256: Material.079
+    2100258: libro_rojo.029
+    2100260: Material.080
+    2100262: libro_beige.028
+    2100264: Material.081
+    2100266: libro_beige.029
+    2100268: Material.082
+    2100270: libro_rojo.030
+    2100272: Material.083
+    2100274: libro_verde.018
+    2100276: Material.084
+    2100278: libro_beige.030
+    2100280: Material.085
+    2100282: libro_rojo.031
+    2100284: Material.086
+    2100286: libro_beige.031
+    2100288: Material.087
+    2100290: libro_beige.032
+    2100292: Material.088
+    2100294: libro_verde.019
+    2100296: Material.089
+    2100298: libro_beige.033
+    2100300: Material.090
+    2100302: libro_verde.020
+    2100304: Material.091
+    2100306: libro_rojo.032
+    2100308: Material.092
+    2100310: libro_beige.034
+    2100312: Material.093
+    2100314: libro_verde.021
+    2100316: Material.094
+    2100318: libro_rojo.033
+    2100320: Material.095
+    2100322: libro_rojo.034
+    2100324: Material.096
+    2100326: libro_beige.035
+    2100328: Material.097
+    2100330: libro_verde.022
+    2100332: Material.098
+    2100334: libro_rojo.035
+    2100336: Material.099
+    2100338: libro_rojo.036
+    2100340: Material.100
+    2100342: libro_beige.036
+    2100344: Material.101
+    2100346: libro_beige.037
+    2100348: Material.102
+    2100350: libro_verde.023
+    2100352: Material.103
+    2100354: libro_rojo.037
+    2100356: Material.104
+    2100358: libro_rojo.038
+    2100360: Material.105
+    2100362: libro_beige.038
+    2100364: Material.106
+    2100366: libro_beige.039
+    2100368: Material.107
+    2100370: libro_rojo.039
+    2100372: Material.108
+    2100374: libro_rojo.040
+    2100376: Material.109
+    2100378: libro_verde.024
+    2100380: Material.110
+    2100382: libro_beige.040
+    2100384: Material.111
+    2100386: libro_beige.041
+    2100388: Material.112
+    2100390: libro_rojo.041
+    2100392: Material.113
+    2100394: libro_rojo.042
+    2100396: Material.114
+    2100398: libro_verde.025
+    2100400: Material.115
+    2100402: libro_beige.042
+    2100404: Material.116
+    2100406: libro_rojo.043
+    2100408: Material.117
+    2100410: libro_rojo.044
+    2100412: Material.118
+    2100414: libro_verde.026
+    2100416: Material.119
+    2100418: libro_beige.043
+    2100420: Material.120
+    2100422: libro_rojo.045
+    2100424: Material.121
+    2100426: libro_verde.027
+    2100428: Material.122
+    2100430: libro_beige.044
+    2100432: Material.123
+    2100434: libro_verde.028
+    2100436: Material.124
+    2100438: libro_beige.045
+    2100440: Material.125
+    2100442: libro_rojo.082
+    2100444: Material.218
+    2100446: libro_beige.071
+    2100448: Material.219
+    2100450: libro_verde.057
+    2100452: Material.220
+    2100454: libro_rojo.083
+    2100456: Material.221
+    2100458: libro_rojo.084
+    2100460: Material.222
+    2100462: libro_beige.072
+    2100464: Material.223
+    2100466: libro_beige.073
+    2100468: Material.224
+    2100470: libro_verde.058
+    2100472: Material.225
+    2100474: libro_rojo.085
+    2100476: Material.226
+    2100478: libro_rojo.086
+    2100480: Material.227
+    2100482: libro_beige.074
+    2100484: Material.228
+    2300000: libro.016
+    2300002: libro.017
+    2300004: libro.018
+    2300006: libro.019
+    2300008: libro.020
+    2300010: libro.021
+    2300012: libro.022
+    2300014: libro.023
+    2300016: libro.024
+    2300018: libro.025
+    2300020: libro.027
+    2300022: libro.028
+    2300024: libro.029
+    2300026: libro.030
+    2300028: libro.031
+    2300030: libro.032
+    2300032: libro.033
+    2300034: libro.034
+    2300036: libro.035
+    2300038: libro.036
+    2300040: libro.037
+    2300042: libro.038
+    2300044: libro.039
+    2300046: libro.040
+    2300048: libro.041
+    2300050: libro.042
+    2300052: libro.043
+    2300054: libro.044
+    2300056: libro.045
+    2300058: libro.046
+    2300060: libro.047
+    2300062: libro.048
+    2300064: libro.049
+    2300066: libro.050
+    2300068: libro.051
+    2300070: libro.052
+    2300072: libro.053
+    2300074: libro.054
+    2300076: libro.055
+    2300078: libro.056
+    2300080: libro.057
+    2300082: libro.058
+    2300084: libro.059
+    2300086: libro.060
+    2300088: libro.061
+    2300090: libro.062
+    2300092: libro.063
+    2300094: libro.064
+    2300096: libro.065
+    2300098: libro.066
+    2300100: libro.067
+    2300102: libro.068
+    2300104: libro.069
+    2300106: libro.070
+    2300108: libro.071
+    2300110: libro.072
+    2300112: libro.073
+    2300114: libro.074
+    2300116: libro.075
+    2300118: libro.076
+    2300120: libro.077
+    2300122: libro.078
+    2300124: libro.079
+    2300126: libro.080
+    2300128: libro.081
+    2300130: libro.082
+    2300132: libro.083
+    2300134: libro.084
+    2300136: libro.085
+    2300138: libro.086
+    2300140: libro.087
+    2300142: libro.088
+    2300144: libro.089
+    2300146: libro.090
+    2300148: libro.091
+    2300150: libro.092
+    2300152: libro.093
+    2300154: libro.094
+    2300156: libro.095
+    2300158: libro.096
+    2300160: libro.097
+    2300162: libro.098
+    2300164: libro.099
+    2300166: libro.100
+    2300168: libro.101
+    2300170: libro.102
+    2300172: libro.103
+    2300174: libro.104
+    2300176: libro.105
+    2300178: libro.106
+    2300180: libro.107
+    2300182: libro.108
+    2300184: libro.109
+    2300186: libro.110
+    2300188: libro.111
+    2300190: libro.112
+    2300192: libro.113
+    2300194: libro.114
+    2300196: libro.115
+    2300198: libro.116
+    2300200: libro.117
+    2300202: libro.118
+    2300204: libro.119
+    2300206: libro.120
+    2300208: libro.121
+    2300210: libro.122
+    2300212: libro.123
+    2300214: libro.124
+    2300216: libro.125
+    2300218: libro.126
+    2300220: libro.127
+    2300222: libro.208
+    2300224: libro.213
+    2300226: libro.214
+    2300228: libro.215
+    2300230: libro.216
+    2300232: libro.217
+    2300234: libro.218
+    2300236: libro.219
+    2300238: libro.220
+    2300240: libro.221
+    2300242: libro.222
+    2300244: LibroRojoOK
+    3300000: libro.016
+    3300002: libro.017
+    3300004: libro.018
+    3300006: libro.019
+    3300008: libro.020
+    3300010: libro.021
+    3300012: libro.022
+    3300014: libro.023
+    3300016: libro.024
+    3300018: libro.025
+    3300020: libro.027
+    3300022: libro.028
+    3300024: libro.029
+    3300026: libro.030
+    3300028: libro.031
+    3300030: libro.032
+    3300032: libro.033
+    3300034: libro.034
+    3300036: libro.035
+    3300038: libro.036
+    3300040: libro.037
+    3300042: libro.038
+    3300044: libro.039
+    3300046: libro.040
+    3300048: libro.041
+    3300050: libro.042
+    3300052: libro.043
+    3300054: libro.044
+    3300056: libro.045
+    3300058: libro.046
+    3300060: libro.047
+    3300062: libro.048
+    3300064: libro.049
+    3300066: libro.050
+    3300068: libro.051
+    3300070: libro.052
+    3300072: libro.053
+    3300074: libro.054
+    3300076: libro.055
+    3300078: libro.056
+    3300080: libro.057
+    3300082: libro.058
+    3300084: libro.059
+    3300086: libro.060
+    3300088: libro.061
+    3300090: libro.062
+    3300092: libro.063
+    3300094: libro.064
+    3300096: libro.065
+    3300098: libro.066
+    3300100: libro.067
+    3300102: libro.068
+    3300104: libro.069
+    3300106: libro.070
+    3300108: libro.071
+    3300110: libro.072
+    3300112: libro.073
+    3300114: libro.074
+    3300116: libro.075
+    3300118: libro.076
+    3300120: libro.077
+    3300122: libro.078
+    3300124: libro.079
+    3300126: libro.080
+    3300128: libro.081
+    3300130: libro.082
+    3300132: libro.083
+    3300134: libro.084
+    3300136: libro.085
+    3300138: libro.086
+    3300140: libro.087
+    3300142: libro.088
+    3300144: libro.089
+    3300146: libro.090
+    3300148: libro.091
+    3300150: libro.092
+    3300152: libro.093
+    3300154: libro.094
+    3300156: libro.095
+    3300158: libro.096
+    3300160: libro.097
+    3300162: libro.098
+    3300164: libro.099
+    3300166: libro.100
+    3300168: libro.101
+    3300170: libro.102
+    3300172: libro.103
+    3300174: libro.104
+    3300176: libro.105
+    3300178: libro.106
+    3300180: libro.107
+    3300182: libro.108
+    3300184: libro.109
+    3300186: libro.110
+    3300188: libro.111
+    3300190: libro.112
+    3300192: libro.113
+    3300194: libro.114
+    3300196: libro.115
+    3300198: libro.116
+    3300200: libro.117
+    3300202: libro.118
+    3300204: libro.119
+    3300206: libro.120
+    3300208: libro.121
+    3300210: libro.122
+    3300212: libro.123
+    3300214: libro.124
+    3300216: libro.125
+    3300218: libro.126
+    3300220: libro.127
+    3300222: libro.208
+    3300224: libro.213
+    3300226: libro.214
+    3300228: libro.215
+    3300230: libro.216
+    3300232: libro.217
+    3300234: libro.218
+    3300236: libro.219
+    3300238: libro.220
+    3300240: libro.221
+    3300242: libro.222
+    3300244: LibroRojoOK
+    4300000: LibroRojoOK
+    4300002: libro.016
+    4300004: libro.017
+    4300006: libro.018
+    4300008: libro.019
+    4300010: libro.020
+    4300012: libro.021
+    4300014: libro.022
+    4300016: libro.023
+    4300018: libro.024
+    4300020: libro.025
+    4300022: libro.027
+    4300024: libro.028
+    4300026: libro.029
+    4300028: libro.030
+    4300030: libro.031
+    4300032: libro.032
+    4300034: libro.033
+    4300036: libro.034
+    4300038: libro.035
+    4300040: libro.036
+    4300042: libro.037
+    4300044: libro.038
+    4300046: libro.039
+    4300048: libro.040
+    4300050: libro.041
+    4300052: libro.042
+    4300054: libro.043
+    4300056: libro.044
+    4300058: libro.045
+    4300060: libro.046
+    4300062: libro.047
+    4300064: libro.048
+    4300066: libro.049
+    4300068: libro.050
+    4300070: libro.051
+    4300072: libro.052
+    4300074: libro.053
+    4300076: libro.054
+    4300078: libro.055
+    4300080: libro.056
+    4300082: libro.057
+    4300084: libro.058
+    4300086: libro.059
+    4300088: libro.060
+    4300090: libro.061
+    4300092: libro.062
+    4300094: libro.063
+    4300096: libro.064
+    4300098: libro.065
+    4300100: libro.066
+    4300102: libro.067
+    4300104: libro.068
+    4300106: libro.069
+    4300108: libro.070
+    4300110: libro.071
+    4300112: libro.072
+    4300114: libro.073
+    4300116: libro.074
+    4300118: libro.075
+    4300120: libro.076
+    4300122: libro.077
+    4300124: libro.078
+    4300126: libro.079
+    4300128: libro.080
+    4300130: libro.081
+    4300132: libro.082
+    4300134: libro.083
+    4300136: libro.084
+    4300138: libro.085
+    4300140: libro.086
+    4300142: libro.087
+    4300144: libro.088
+    4300146: libro.089
+    4300148: libro.090
+    4300150: libro.091
+    4300152: libro.092
+    4300154: libro.093
+    4300156: libro.094
+    4300158: libro.095
+    4300160: libro.096
+    4300162: libro.097
+    4300164: libro.098
+    4300166: libro.099
+    4300168: libro.100
+    4300170: libro.101
+    4300172: libro.102
+    4300174: libro.103
+    4300176: libro.104
+    4300178: libro.105
+    4300180: libro.106
+    4300182: libro.107
+    4300184: libro.108
+    4300186: libro.109
+    4300188: libro.110
+    4300190: libro.111
+    4300192: libro.112
+    4300194: libro.113
+    4300196: libro.114
+    4300198: libro.115
+    4300200: libro.116
+    4300202: libro.117
+    4300204: libro.118
+    4300206: libro.119
+    4300208: libro.120
+    4300210: libro.121
+    4300212: libro.122
+    4300214: libro.123
+    4300216: libro.124
+    4300218: libro.125
+    4300220: libro.126
+    4300222: libro.127
+    4300224: libro.208
+    4300226: libro.213
+    4300228: libro.214
+    4300230: libro.215
+    4300232: libro.216
+    4300234: libro.217
+    4300236: libro.218
+    4300238: libro.219
+    4300240: libro.220
+    4300242: libro.221
+    4300244: libro.222
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 618a205b21683fe46aaeb6b63fc0bf76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 87a230d75b14d6948a0383ce8f88dd1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 3ae6c542b62ba2d428139367f1953146, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: acbf7ee23cd59dc4bb077b9f1384c8f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 48787f6eeccc7fc49b1efe6984622b0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: d7ef6998c2297054bb473892f4ea5e76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: ea4aae8d4422eb44381b6388fbe22ce1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: 92ddfb5eb682dc348829501179811ac6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: 4cb575359b2d8df45af07a38c2fca8b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: ca3fa7aa27c5aaa40b641c5135c0d62b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: a838085aead675b4c97d8a8eab4671de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.019
+    second: {fileID: 2100000, guid: bd54d3d9324f8264e8e5cf5a4a154eda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.024
+    second: {fileID: 2100000, guid: 70f29fb32aa375b4ab2a8ef8bbb26836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.025
+    second: {fileID: 2100000, guid: b3d9c875ccd2dde488a53eddd56b95be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.026
+    second: {fileID: 2100000, guid: b015f0aea12d90c44ba11d0babdd188f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.027
+    second: {fileID: 2100000, guid: fd948ca19395f61438bfc42a5e5be89d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.029
+    second: {fileID: 2100000, guid: 26544dd480b68a046b3cd6af5b831671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.030
+    second: {fileID: 2100000, guid: a9fab659527c9b640b3134fbeee72256, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.031
+    second: {fileID: 2100000, guid: 41ed2d049177cd14884c4205d8fe27cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.032
+    second: {fileID: 2100000, guid: 46e41f91efc8c9548bd8a40779463bc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.033
+    second: {fileID: 2100000, guid: 70e0ce0baa9da3e4db54797f5295cc6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.034
+    second: {fileID: 2100000, guid: a1447c02c2f13dd4589cfd22b5a0aea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.035
+    second: {fileID: 2100000, guid: 57be38f8fca512947974612a2760589b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.036
+    second: {fileID: 2100000, guid: c2d3aa4ba524b794babe9971698182eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.037
+    second: {fileID: 2100000, guid: 3a875aed22aafde4e9a0dbb6945fb567, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.038
+    second: {fileID: 2100000, guid: d0c2f993144c2c940a5e6f610a77f4d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.039
+    second: {fileID: 2100000, guid: dfa1e00bab8a2cb45ab7d0c47a881697, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.040
+    second: {fileID: 2100000, guid: f9375cebc5620bb498a3a606e406e7a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.041
+    second: {fileID: 2100000, guid: 6e3db5ad15855284ab550c9e6b7b0ef4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.042
+    second: {fileID: 2100000, guid: 51151e97448a24e40abc04ac8bbbd568, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.043
+    second: {fileID: 2100000, guid: 3bddde33d0bbce240a5ea247f42fb84e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.044
+    second: {fileID: 2100000, guid: d9dc70293a56b21448f8762938ee67b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.045
+    second: {fileID: 2100000, guid: 5cd9ae3e004d35e4aae07bd229661ab4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.046
+    second: {fileID: 2100000, guid: 8313b074f3aa5ee40a5f954a910ee442, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.047
+    second: {fileID: 2100000, guid: ee033aab3e148e746af077fc56742754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.048
+    second: {fileID: 2100000, guid: 3a13028b066a17c4887d32597598f78c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.049
+    second: {fileID: 2100000, guid: 8cfd8a287b5a0ad4085c9ef74ead6089, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.050
+    second: {fileID: 2100000, guid: dba4e4f109fd44845a5bad87d3549e5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.051
+    second: {fileID: 2100000, guid: 3a498cc4a52bfe948955840442181ee1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.052
+    second: {fileID: 2100000, guid: 1525337ca8c148d4ba75b92ce6e631c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.053
+    second: {fileID: 2100000, guid: 76ca42133963c8e4994c2ff7c308efb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.054
+    second: {fileID: 2100000, guid: 66100db3aeddcb7448d82610c1738d6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.055
+    second: {fileID: 2100000, guid: 3988c81508fa7264e8c461b05036e61a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.056
+    second: {fileID: 2100000, guid: a575c92b829c32840856497a430d38cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.057
+    second: {fileID: 2100000, guid: 87266a18d95fe834f80f53ecc9e0f694, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.058
+    second: {fileID: 2100000, guid: b4a6349dcc64bba488aa81ff09858781, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.059
+    second: {fileID: 2100000, guid: c66f8f8a47aa39b46a200adb9978ea1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.060
+    second: {fileID: 2100000, guid: aa27f08a09d6485419d8102beba53292, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.061
+    second: {fileID: 2100000, guid: e18d24d654d2d1f4c824616701c03899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.062
+    second: {fileID: 2100000, guid: a1f1477608d30ef48af594874d1fff99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.063
+    second: {fileID: 2100000, guid: 744c90b7f16dafe4fa8b62452c708f4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.064
+    second: {fileID: 2100000, guid: d6ab35f3a8146974ca4d89c529cf1ff9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.065
+    second: {fileID: 2100000, guid: 7603cd8138eb27242ab2ebbb19c5e5da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.066
+    second: {fileID: 2100000, guid: b8bcdcdbfdae72e48bfeefa57e464651, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.067
+    second: {fileID: 2100000, guid: 34b5f023a43b3704181ac15cbdbbaa80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.068
+    second: {fileID: 2100000, guid: 843b02df10ef8be4894fd2859d7ad72c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.069
+    second: {fileID: 2100000, guid: 6e2b527357924ce44a3c18d51960ad6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.070
+    second: {fileID: 2100000, guid: 5bb4ccc51438ad14d86ae0c66a9e3a82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.071
+    second: {fileID: 2100000, guid: a9225653bd2a5d743854b89126f6ff9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.072
+    second: {fileID: 2100000, guid: c79edd83ef7a3f34282c6e4df459885b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.073
+    second: {fileID: 2100000, guid: 46dfce8b393f47c4b93dcdc63cd530e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.074
+    second: {fileID: 2100000, guid: b1150253c1da3774996db9d5553fd544, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.075
+    second: {fileID: 2100000, guid: cb6a5979dc98ab34ca66346bd23a7d65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.076
+    second: {fileID: 2100000, guid: 3e7bac00bc77d4a46a2b42dcd379a691, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.077
+    second: {fileID: 2100000, guid: 88a7d844e1914dc41805ef28ee267ec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.078
+    second: {fileID: 2100000, guid: fec6e34c1a96fa24db867ecac8165a59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.079
+    second: {fileID: 2100000, guid: 37159e92932fe2d48951ea7c31d20294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.080
+    second: {fileID: 2100000, guid: ab34beb901eed7c46911926b8679331d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.081
+    second: {fileID: 2100000, guid: 60dcdf56e7b699c4bbff7f6db5ddc72e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.082
+    second: {fileID: 2100000, guid: dfab7d3242b5c4c47a3aeb88b80eb8f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.083
+    second: {fileID: 2100000, guid: 7460f4e5c8c9b304a9d2f8552500933e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.084
+    second: {fileID: 2100000, guid: 62ad0628fcfeec140b36db0b38538075, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.085
+    second: {fileID: 2100000, guid: 12b67870174857c4c89265cdf89d8bfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.086
+    second: {fileID: 2100000, guid: c81c2bcd9013300439776ca81dbb93bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.087
+    second: {fileID: 2100000, guid: 9ca9a859da507b94094c6e161d6b09a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.088
+    second: {fileID: 2100000, guid: 7c0be6d0076ed71478b7d35010e557fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.089
+    second: {fileID: 2100000, guid: 2f32801a69dde814e97c1bab5d054396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.090
+    second: {fileID: 2100000, guid: 8ffb80e2f59b8bf429276b6109d9cff8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.091
+    second: {fileID: 2100000, guid: 18cdc9ec9a3e18f4787bfac1cad85744, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.092
+    second: {fileID: 2100000, guid: 231fcd33ab214cf4fb7d1c72396c1950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.093
+    second: {fileID: 2100000, guid: 611545b5284685c4c92a7874a239cf1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.094
+    second: {fileID: 2100000, guid: d4b61c93a2179be4eadc787e49f32408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.095
+    second: {fileID: 2100000, guid: f90402184f723164b80c3512781bdfba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.096
+    second: {fileID: 2100000, guid: baa39205393d0594984a138c518c0510, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.097
+    second: {fileID: 2100000, guid: cc5a364a60c3b1547be733413adcc77b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.098
+    second: {fileID: 2100000, guid: 50a91c7ebbd10a1499472dddf82c05ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.099
+    second: {fileID: 2100000, guid: 61ff6e55b38f63443b8a23155c17c4d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.100
+    second: {fileID: 2100000, guid: d3b68380f3e0bcd48946f05acef19cb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.101
+    second: {fileID: 2100000, guid: 5e1d04017c4e0a2479659e93c5a2b6a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.102
+    second: {fileID: 2100000, guid: 4a9baba8c39a2ed4c99f94af8880ccab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.103
+    second: {fileID: 2100000, guid: 11fc35836859fd0418d90707e03d4f4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.104
+    second: {fileID: 2100000, guid: cabf95fa88ea0ee42a8f564629e971fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.105
+    second: {fileID: 2100000, guid: 02cfad56bc999d240be581bf27a2e2af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.106
+    second: {fileID: 2100000, guid: 3bd29e956920e104c8223537802f145c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.107
+    second: {fileID: 2100000, guid: 3cda99d458572de4bb5e76bd94cbbdcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.108
+    second: {fileID: 2100000, guid: 00f5b72f858bc0840a504ac5bd196819, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.109
+    second: {fileID: 2100000, guid: 3fd01d59a8fdec54ab7ba8a75eb8f976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.110
+    second: {fileID: 2100000, guid: 9233984b71c0dac43b946ab2ba77d04a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.111
+    second: {fileID: 2100000, guid: bff1391ddc684fd4e8f40d4547836be2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.112
+    second: {fileID: 2100000, guid: d3312dfda3e0e6e44b8ed08acc872280, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.113
+    second: {fileID: 2100000, guid: b95046c9d0aa3354c973ad6bca4f7524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.114
+    second: {fileID: 2100000, guid: 9bbe2df4623ae7547886167007c4ab8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.115
+    second: {fileID: 2100000, guid: 2c7f70395c33c4847b7afae1145a03e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.116
+    second: {fileID: 2100000, guid: 55ebbeeed2550f54abf3a896c354da1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.117
+    second: {fileID: 2100000, guid: 4fced666c78471646b8a08f17a4a3d61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.118
+    second: {fileID: 2100000, guid: fb88eda9e381186468d7dde815a6b9c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.119
+    second: {fileID: 2100000, guid: a70045df226d73445a3fa35730e63972, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.120
+    second: {fileID: 2100000, guid: f5f4a4ab5a3c4db4a8c65f53f4fcc571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.121
+    second: {fileID: 2100000, guid: ad7bdab8eb139844d844fa5e1e27cfd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.122
+    second: {fileID: 2100000, guid: 18a08f2ab9e63f14ca9be36709679672, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.123
+    second: {fileID: 2100000, guid: 15037adf8a1928c43b3a80dcfaae1466, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.124
+    second: {fileID: 2100000, guid: a856914687410a5438004d1ddd64fd4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.125
+    second: {fileID: 2100000, guid: 20c6b659e07a6d040a87ac3958ac20fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.218
+    second: {fileID: 2100000, guid: 1ccf562515e6e8b45a21a43edb4d3aad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.219
+    second: {fileID: 2100000, guid: 841bb96b3e7219a4da12e7bbe739442b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.220
+    second: {fileID: 2100000, guid: 56b3e7ff374a9134ca45db2580858197, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.221
+    second: {fileID: 2100000, guid: e1ec9adeb5faa2a489e5a00cdc6b1c05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.222
+    second: {fileID: 2100000, guid: 76ca689ca8cc03f42b90792681ca71bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.223
+    second: {fileID: 2100000, guid: e30ebb7eaf17ba74eb612b30278d4833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.224
+    second: {fileID: 2100000, guid: 22a1a83aa904887439c68ccdc3b69f61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.225
+    second: {fileID: 2100000, guid: 93b60352d81009f4184842eb72da1895, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.226
+    second: {fileID: 2100000, guid: 1e0b18baf6136e34c809c972e7998119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.227
+    second: {fileID: 2100000, guid: 5be78c388b9bfb44781fbb9167de770f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.228
+    second: {fileID: 2100000, guid: 94bcbd6dfff6cfa449b6d73c40048b55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige
+    second: {fileID: 2100000, guid: 022133acf7b9f8a4dac323dd15a53053, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.003
+    second: {fileID: 2100000, guid: 6cf8f12206e3d024fa7d4e97dd63ce37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.004
+    second: {fileID: 2100000, guid: 6807734044cf22942a12e892748dae3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.007
+    second: {fileID: 2100000, guid: dc60a9c5d5d0cc94689b8b293d09980e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.008
+    second: {fileID: 2100000, guid: c4218e67284979f40966aac4a08a12ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.009
+    second: {fileID: 2100000, guid: c7f3b564b29ee1e49a37de570190bb99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.010
+    second: {fileID: 2100000, guid: 87e6fcc27a79e1544b29343e0e086ab0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.011
+    second: {fileID: 2100000, guid: 4912871553c626e47bec552af71e2e11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.012
+    second: {fileID: 2100000, guid: 4c0a8db7e4db1ca4fba114616b54ed94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.013
+    second: {fileID: 2100000, guid: bc85d32608cc94a4191faf1d753d8b8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.014
+    second: {fileID: 2100000, guid: 8824b83a2279c5341baeb1fa2078b6bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.015
+    second: {fileID: 2100000, guid: 7fd272744783a824287cf002421589bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.016
+    second: {fileID: 2100000, guid: ebd5f9cef2d1d0f4882b7f14e68703c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.017
+    second: {fileID: 2100000, guid: c93e51574983a4b48a580eac75911174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.018
+    second: {fileID: 2100000, guid: d22ea57f3a66f184e828f487695dbda9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.019
+    second: {fileID: 2100000, guid: 5cebf70ab0b95934c9b4d942f24102ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.020
+    second: {fileID: 2100000, guid: ddee03eee5e8d224185c2ed6b61be8e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.021
+    second: {fileID: 2100000, guid: a1b82335bc4631f48b7b51f53d2b2759, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.022
+    second: {fileID: 2100000, guid: 93169fe1af885484892c4d8903d1ccb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.023
+    second: {fileID: 2100000, guid: f66389d23e48e1b409d46c40cd137f93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.024
+    second: {fileID: 2100000, guid: f9afbaa26745958469ebf922aa8fb625, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.025
+    second: {fileID: 2100000, guid: 9737af850f1fcdd4fb69973addfc32b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.026
+    second: {fileID: 2100000, guid: 19a6b6736e2b0b04e886de80bd73782f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.027
+    second: {fileID: 2100000, guid: d988797ade8554548b0993b8d845c0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.028
+    second: {fileID: 2100000, guid: 48d8d5b75de926240ac4a83608fcd2e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.029
+    second: {fileID: 2100000, guid: 21acbacdf8d6e0c40a4ed76b1d5ab1ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.030
+    second: {fileID: 2100000, guid: ecf1bb1ecb5bf5b47b391fe5e4bcc0f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.031
+    second: {fileID: 2100000, guid: 37d29318129a0034b95fbe857b1c189f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.032
+    second: {fileID: 2100000, guid: 4faf6eaf456185445a4c2f0e07b07fb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.033
+    second: {fileID: 2100000, guid: d1d07d00095e9b648a533acb7425d2c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.034
+    second: {fileID: 2100000, guid: 23565a91311c49d42b6bfde894c586a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.035
+    second: {fileID: 2100000, guid: d178fbaa181e51a4a91d5c817a3c61b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.036
+    second: {fileID: 2100000, guid: f156408756806ce42959409c2613c55b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.037
+    second: {fileID: 2100000, guid: f9fb3d871785fc24187bc62cc811c360, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.038
+    second: {fileID: 2100000, guid: de2b1c121fb73b74c895a864fe072ff4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.039
+    second: {fileID: 2100000, guid: 1048e9aac6b3d154fb06abbd0adb6a2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.040
+    second: {fileID: 2100000, guid: bb856ec65e0d26b48a1e8437e94b4c88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.041
+    second: {fileID: 2100000, guid: 05e406de2dc45314dab3454d762b7fad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.042
+    second: {fileID: 2100000, guid: 7f0b00de919d12d42b6161464d9be50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.043
+    second: {fileID: 2100000, guid: 79e19d080faae8b40af4a5f9c1690cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.044
+    second: {fileID: 2100000, guid: 7a74a7a2f9de2a14eb4e71039bf69c1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.045
+    second: {fileID: 2100000, guid: 03dfff021bf12b04b91f17d513cfc0be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.071
+    second: {fileID: 2100000, guid: f61c83fd259a4c34daaedc89dbd2d648, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.072
+    second: {fileID: 2100000, guid: 1e0e1fc68d9ee62479f239abee7d26a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.073
+    second: {fileID: 2100000, guid: 4a72f85fcd293c64c80b4255678cc158, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_beige.074
+    second: {fileID: 2100000, guid: 559df7070a3ef6747afc333d25b0f809, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.002
+    second: {fileID: 2100000, guid: aa5255e17d8a9a645b01892aa5bacb8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.003
+    second: {fileID: 2100000, guid: 2189cb0e0c28ba44499b05dc1e87aa5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.004
+    second: {fileID: 2100000, guid: a7946cfbdf19dbc4ca2622a28b981632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.005
+    second: {fileID: 2100000, guid: 3135ee930ee221c42bca543feab9d27d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.008
+    second: {fileID: 2100000, guid: 02d458e879f94644aaf54da4d55979f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.009
+    second: {fileID: 2100000, guid: 1950a3bbf8fcebd4393a26d6f2e2af6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.010
+    second: {fileID: 2100000, guid: 93dc21b2bc8956a49b11d95e0cce425d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.011
+    second: {fileID: 2100000, guid: 8e4fe99d9829d8c44b4c3f9bc6f8effd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.012
+    second: {fileID: 2100000, guid: 0274732f1a65a4c43ad72adbe6bf0643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.013
+    second: {fileID: 2100000, guid: 6d3751fc52597354cae2a195c55514c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.014
+    second: {fileID: 2100000, guid: d64cfb058075f404b9568d7758b61194, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.015
+    second: {fileID: 2100000, guid: 160ceffc4cc7cb24da6243d005356274, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.016
+    second: {fileID: 2100000, guid: bdd12a8638fadc04e8a9f38d9516512b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.017
+    second: {fileID: 2100000, guid: 59cf49af1a492d54ea77393104cbabf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.018
+    second: {fileID: 2100000, guid: fd133b46ba1d1a94f865ca501f42da02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.019
+    second: {fileID: 2100000, guid: 7450a18ea41c84a4ea62931c768dcdb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.020
+    second: {fileID: 2100000, guid: 97fb11cd20b2a0a4a8ef986a4527101c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.021
+    second: {fileID: 2100000, guid: f3b4e283d4cefad4f9b616cafcfdec3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.022
+    second: {fileID: 2100000, guid: 24f1cfa7d7bd76f4b977900474539e68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.023
+    second: {fileID: 2100000, guid: 00baa837374d2114eb2a1d9f6e8aa8bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.024
+    second: {fileID: 2100000, guid: c087c3e520723e145bd23907029bfc7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.025
+    second: {fileID: 2100000, guid: 89d5496599bf7504596993358f37928f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.026
+    second: {fileID: 2100000, guid: 54d4b11215670b040a7cc06b55168bb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.027
+    second: {fileID: 2100000, guid: 0bd4e5e8493f8ee4e8d6c1f602cb6f73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.028
+    second: {fileID: 2100000, guid: f36ba58ceb1aed249806af4c8a16d10c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.029
+    second: {fileID: 2100000, guid: 4f9a0aa654aaa3e428c3f2e76ae3ffa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.030
+    second: {fileID: 2100000, guid: 7170d13ace0dad64c9a3f38eab9f5aac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.031
+    second: {fileID: 2100000, guid: 06957625de490ac4cbf81b022b105a3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.032
+    second: {fileID: 2100000, guid: ebcaf3026fed53d419bde7c7b1146b1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.033
+    second: {fileID: 2100000, guid: 7198fd60ec8263b46947c1a05ef21c25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.034
+    second: {fileID: 2100000, guid: 2c213946703e83d4da2c4a887b3ce69c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.035
+    second: {fileID: 2100000, guid: d178b143ebcf78c4c92dd35b199d661a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.036
+    second: {fileID: 2100000, guid: 69ef0874241b9f440879897d6f07eb4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.037
+    second: {fileID: 2100000, guid: 81250fb344117eb48aba84f8b44eba44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.038
+    second: {fileID: 2100000, guid: b5340153e20883548ad405e78cdd144d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.039
+    second: {fileID: 2100000, guid: 7c82d77fed80f6146afc689ee210a531, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.040
+    second: {fileID: 2100000, guid: 1c876bb893052a145b1f46f708f5f91e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.041
+    second: {fileID: 2100000, guid: ad5904f6bf86bb741b566b42dc6edd23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.042
+    second: {fileID: 2100000, guid: 58763c56b4c9f404fa392c0e25264da8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.043
+    second: {fileID: 2100000, guid: 5477b029f04d69544b898dbed8149369, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.044
+    second: {fileID: 2100000, guid: 4186f2b08ec5edd4583128f478f114d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.045
+    second: {fileID: 2100000, guid: c07969db961af7f4ca9038cb0dab3987, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.082
+    second: {fileID: 2100000, guid: f9eebd0fd4caf144caeb981450fd80d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.083
+    second: {fileID: 2100000, guid: 3597e8e0fd6d91f448c2c81f551cd287, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.084
+    second: {fileID: 2100000, guid: cb2b697934e042d4283b4d9692e56960, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.085
+    second: {fileID: 2100000, guid: cb22a8ca731e4b740a4363059c442f76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo.086
+    second: {fileID: 2100000, guid: 1ca2920afd903834ead15e360752a0d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde
+    second: {fileID: 2100000, guid: 3a668a5bbaa41ed4c9ec75bb81657712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.001
+    second: {fileID: 2100000, guid: 9bf0f7e78deacda49b835081572f5aca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.007
+    second: {fileID: 2100000, guid: a0e378b1f46ba3242b1f11703be8078b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.008
+    second: {fileID: 2100000, guid: 3621cc7e19e64024eb33958bce42ecc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.009
+    second: {fileID: 2100000, guid: 6f1fdcb7ee65c314d9bb32187e152872, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.010
+    second: {fileID: 2100000, guid: ff4fcd3818e0e194990f1d98d9223b31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.011
+    second: {fileID: 2100000, guid: 47e1bdd4f3a1f4b4685e9e06fcdc0207, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.012
+    second: {fileID: 2100000, guid: 68b5b265726e245429aee89bf2cfb7cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.013
+    second: {fileID: 2100000, guid: 9a7b8c7c4bb0f0f40980ca359f89d600, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.014
+    second: {fileID: 2100000, guid: 057e4701cc5979f41bc86de91dd2118b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.015
+    second: {fileID: 2100000, guid: e3e6f988e7d1a954e91d5ae16cad8524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.016
+    second: {fileID: 2100000, guid: 57dc3945458412f4e9ff3d972aebae6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.017
+    second: {fileID: 2100000, guid: cdea48a9eb513b7498abb48387596379, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.018
+    second: {fileID: 2100000, guid: a8abc2df97c9baa4d9a44000edce36fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.019
+    second: {fileID: 2100000, guid: a6c2d4d89c13312458bb998d582ca30c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.020
+    second: {fileID: 2100000, guid: 671354b754ed27d4ab9f6b9ec3a55c9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.021
+    second: {fileID: 2100000, guid: d24df93282037414d981a7b25612fa10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.022
+    second: {fileID: 2100000, guid: 8cc6f8781816e9c49bcd89cf08b88376, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.023
+    second: {fileID: 2100000, guid: 833c83759bec5f34ea7a3aa82764dd06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.024
+    second: {fileID: 2100000, guid: 7c6b37460210e7c4ab17a1b41def903a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.025
+    second: {fileID: 2100000, guid: 3be57faefdb10fc4ebfe0eea8ffe1fff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.026
+    second: {fileID: 2100000, guid: 1822d57132393924584f71201997d059, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.027
+    second: {fileID: 2100000, guid: 8f47c1987925c014b8ef4835c207f904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.028
+    second: {fileID: 2100000, guid: fb53b96d188afdb4b929e2edd9c780e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.057
+    second: {fileID: 2100000, guid: 5835fdc96756e794890f5c270035c6c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: libro_verde.058
+    second: {fileID: 2100000, guid: a1ab54b56e23774459b8e4ca9953898b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: libro_beige
+    second: {fileID: 2800000, guid: adf3873d195ca894da34b88da8f15c97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: libro_rojo
+    second: {fileID: 2800000, guid: b633eb8c7b9ed644b8459df403b239dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: libro_verde
+    second: {fileID: 2800000, guid: 8c6bb4377c29d9d41b57bc1979170918, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
